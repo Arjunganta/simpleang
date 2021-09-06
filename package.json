@@ -1,0 +1,27 @@
+{
+  "name": "simple-angularjs",
+  "version": "1.0.0",
+  "description": "The most pure angularjs project in original way",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mean-engineering/simple-angularjs.git"
+  },
+  "keywords": [
+    "angularjs",
+    "outdated"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mean-engineering/simple-angularjs/issues"
+  },
+  "homepage": "https://github.com/mean-engineering/simple-angularjs#readme",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.11",
+    "angular": "^1.6.7",
+    "express": "^4.16.2"
+  }
+}
